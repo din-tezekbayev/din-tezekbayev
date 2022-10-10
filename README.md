@@ -46,3 +46,6 @@ Redis, Mysql, Postgress, SQLite
 ##### Other skills or tools:
 GIT, JSON, API, OOP, MVC, OpenSSl(for e-gov encryption documents), Adobe Illustrator, Adobe Photoshop, Google Datastudio, SOLID, YAGNI, DRY, KISS
 	
+## 💎 My Stats on github.com
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=din-tezekbayev&theme=dark&background=000000)](https://git.io/streak-stats)
