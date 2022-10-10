@@ -53,3 +53,11 @@ GIT, JSON, API, OOP, MVC, OpenSSl(for e-gov encryption documents), Adobe Illustr
 ## 🔥 My top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=din-tezekbayev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## Worked Companies
+
+- KazAeroSpace ([kazaerospace.kz](https://kazaerospace.kz/))
+- KazAtomProm ([KAP Technology](https://kaptechnology.kazatomprom.kz/ru))
+- QLT ([qlt.kz](https://qlt.kz/))
+- LLC "Operator EPC" ([recycle.kz](recycle.kz)) [Оператор РОП] **nowadays: Жасыл даму**
+- LLC "Foam Agency" ([https://foam.agency/](foam.agency)) ([SFCD](https://www.sfcd.com/))
