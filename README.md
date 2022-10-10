@@ -21,7 +21,7 @@
 <table align="center" border="0" style="border:0">
   <tr>
     <td cols="2">
-      <img src="https://instagram.fala4-1.fna.fbcdn.net/v/t51.2885-15/49597706_538726103315571_114684578871697756_n.jpg?stp=dst-jpg_e35&_nc_ht=instagram.fala4-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=fHAZpTTnzl0AX8pEDS5&edm=ALQROFkBAAAA&ccb=7-5&ig_cache_key=MTk3MjcxNDQ5NDYyODQyNjA2NQ%3D%3D.2-ccb7-5&oh=00_AT_KEekOz8f0UjRmVyfDtTR8clYJmkXjteeBxj-LW1i46g&oe=634B5FB5&_nc_sid=30a2ef" width="240" height="300"/>
+      <img src="https://instagram.fala4-1.fna.fbcdn.net/v/t51.2885-15/49597706_538726103315571_114684578871697756_n.jpg?stp=dst-jpg_e35&_nc_ht=instagram.fala4-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=fHAZpTTnzl0AX8pEDS5&edm=ALQROFkBAAAA&ccb=7-5&ig_cache_key=MTk3MjcxNDQ5NDYyODQyNjA2NQ%3D%3D.2-ccb7-5&oh=00_AT_KEekOz8f0UjRmVyfDtTR8clYJmkXjteeBxj-LW1i46g&oe=634B5FB5&_nc_sid=30a2ef" width="240"/>
     </td>
     <td>
       Here <i>I will tell</i> you about myself, <br/>
