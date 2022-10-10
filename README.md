@@ -52,4 +52,4 @@ GIT, JSON, API, OOP, MVC, OpenSSl(for e-gov encryption documents), Adobe Illustr
 
 ## 🔥 My top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=din-tezekbayev)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=din-tezekbayev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
