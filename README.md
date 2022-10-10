@@ -37,12 +37,12 @@
 
 ## 🛠 Skills
 
-### Languages:
-	php, javascript, typescript, ruby, python, java, css, html, SCSS, SASS
-### Frameworks and libraries:
-	React^17, Vue.js, Laravel^7, Ruby on Rails, Django, Phalcon, Tailwind, bootstrap
-### Database:
-	Redis, Mysql, Postgress, SQLite
-### Other skills or tools:
-	git, json, api, OOP, MVC, OpenSSl(for e-gov encryption documents), Adobe illustrator, Adobe photoshop, google datastudio, SOLID, YAGNI, DRY, KISS
+##### Languages:
+PHP, Javascript, Typescript, Ruby, Python (basic), Java (basic), CSS, HTML, SCSS, SASS
+##### Frameworks and libraries:
+React^17, Vue.js, Laravel^7, Ruby on Rails, Django, Phalcon, Tailwind, bootstrap
+##### Database:
+Redis, Mysql, Postgress, SQLite
+##### Other skills or tools:
+GIT, JSON, API, OOP, MVC, OpenSSl(for e-gov encryption documents), Adobe Illustrator, Adobe Photoshop, Google Datastudio, SOLID, YAGNI, DRY, KISS
 	
