@@ -1,18 +1,6 @@
 # Hi, I'm Din! 👋
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/dinmukhamed-tezekbayev-b18353183">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://studio.youtube.com/channel/UCtBKAQZm4Tcmp0IHaTxYEjA">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://twitter.com/Dinmukhamed14">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="https://hh.kz/resume/0e8be1a1ff045ac3790039ed1f4f4946565a65">
-    <img src="https://img.shields.io/badge/hh.kz-red?style=for-the-badge&logo=headhunter&logoColor=white" alt="HeadHunter Badge"/>
-  </a>
   <span>
     <img src="https://komarev.com/ghpvc/?username=din-tezekbayev&style=for-the-badge" alt="Profile Views" />
   </span>
